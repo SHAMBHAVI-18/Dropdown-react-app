@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SHAMBHAVI-18/Dropdown-react-app/static/css/main.aa5940ec.css",
+    "main.js": "/SHAMBHAVI-18/Dropdown-react-app/static/js/main.7a3a86c7.js",
+    "index.html": "/SHAMBHAVI-18/Dropdown-react-app/index.html",
+    "main.aa5940ec.css.map": "/SHAMBHAVI-18/Dropdown-react-app/static/css/main.aa5940ec.css.map",
+    "main.7a3a86c7.js.map": "/SHAMBHAVI-18/Dropdown-react-app/static/js/main.7a3a86c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5940ec.css",
+    "static/js/main.7a3a86c7.js"
+  ]
+}
